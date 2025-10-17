@@ -1,1 +1,1 @@
-# Git_Repository_SimonaSchnitzer
+# Git_Simona_Projects
