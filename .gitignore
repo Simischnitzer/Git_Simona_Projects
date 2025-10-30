@@ -14,7 +14,7 @@ output/
 reports/
 debug/
 
-# Postman a API testy
+# Postman and API tests
 *.postman_collection.json
 *.postman_environment.json
 *.har
@@ -34,7 +34,7 @@ secrets.txt
 .DS_Store
 Thumbs.db
 
-# template from GitHub
+# Template from GitHub:
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
