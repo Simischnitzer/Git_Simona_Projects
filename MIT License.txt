@@ -20,6 +20,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Use of this software for illegal, harmful, or unethical purposes is strictly 
-prohibited under applicable law.
+This software may not be used for illegal, harmful, or unethical purposes 
+under applicable laws. Any misuse of this software that harms the author’s 
+reputation may be subject to legal action under applicable law.
                                               
