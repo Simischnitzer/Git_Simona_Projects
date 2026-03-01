@@ -1,7 +1,7 @@
 # Copyright (c) 2025 Simona Schnitzer
 # Licensed under the MIT License. See LICENSE file for details.
 # -----INVENTORY UPDATE-----
-# This script displays all open orders with numbers, asks the user to enter the an order ID to remove, 
+# This script displays all open orders with numbers, asks the user to enter an order ID to remove, 
 # checks if the entered ID matches any existing order (ignoring case, underscores can be replace by space) 
 # and if found removes it from the list and confirms, otherwise, it shows "Order not fournd". 
 
