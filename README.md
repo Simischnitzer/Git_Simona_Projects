@@ -1,6 +1,9 @@
 
 # My Projects Portfolio
+<details>
+<summary>Profile preview</summary>
 ![Profile](images/profile-small.jpg)
+</details>
 
 ## About this repository
 This repository contains my Python scripts, small programs, API tests, shell scripts, 
