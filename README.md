@@ -2,7 +2,7 @@
 # My Projects Portfolio
 <details>
   <summary>Profile preview</summary>
-  <img src="images/profile.jpg" width="100" height="100" style="object-fit: cover; border-radius: 10%;">
+  <img src="images/profile.jpg" width="100" height="100">
 </details>
 
 ## About this repository
