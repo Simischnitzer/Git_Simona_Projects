@@ -2,7 +2,9 @@
 # My Projects Portfolio
 <details>
 <summary>Profile preview</summary>
+
 ![Profile](images/profile-small.jpg)
+
 </details>
 
 ## About this repository
