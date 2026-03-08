@@ -1,6 +1,9 @@
 
 # My Projects Portfolio
-![Profile](images/profile.jpg){width=300}
+<details>
+  <summary>Profile preview</summary>
+  <img src="images/profile.jpg" width="100" height="100" style="object-fit: cover; border-radius: 10%;">
+</details>
 
 ## About this repository
 This repository contains my Python scripts, small programs, API tests, shell scripts, 
