@@ -1,9 +1,9 @@
 
 # My Projects Portfolio
 <details>
-<summary>Profile preview</summary>
+  <summary>Profile preview</summary>
 
-![Profile](images/profile-small.jpg)
+  <img src="images/profile-small.jpg" alt="Profile" width="100" height="100">
 
 </details>
 
