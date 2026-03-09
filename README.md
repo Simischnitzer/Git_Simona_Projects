@@ -1,11 +1,6 @@
 
 # My Projects Portfolio
-<details>
-  <summary>Profile preview</summary>
-
-  <img src="images/profile-small.jpg" alt="Profile" width="100" height="100">
-
-</details>
+![Profile](images/profile-small.jpg)
 
 ## About this repository
 This repository contains my Python scripts, small programs, API tests, shell scripts, 
