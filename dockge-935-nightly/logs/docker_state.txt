@@ -1,0 +1,20 @@
+○ docker.service - Docker Application Container Engine
+     Loaded: loaded (/usr/lib/systemd/system/docker.service; enabled; preset: enabled)
+     Active: inactive (dead) since Mon 2026-04-13 20:56:23 UTC; 2min 43s ago
+   Duration: 10.421s
+TriggeredBy: ○ docker.socket
+       Docs: https://docs.docker.com
+    Process: 139641 ExecStart=/usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock (code=exited, status=0/SUCCESS)
+   Main PID: 139641 (code=exited, status=0/SUCCESS)
+        CPU: 728ms
+
+Apr 13 20:56:19 vmubuntuserver dockerd[139641]: time="2026-04-13T20:56:19.864273695Z" level=info msg="stopping restart-manager" container=cea58b43f8059070da4696fc1e76ed34ddca330abf7fe76af8262cdfbb81a1bd
+Apr 13 20:56:19 vmubuntuserver dockerd[139641]: time="2026-04-13T20:56:19.864390281Z" level=info msg="stopping restart-manager" container=790785399c7e81894c8bcad6d311be23f07f9bb24c9e894582f6190ececf6d54
+Apr 13 20:56:19 vmubuntuserver dockerd[139641]: time="2026-04-13T20:56:19.902664209Z" level=info msg="received task-delete event from containerd" container=fb73dc9a5f6ca056c1fadcd1e2fff3c18c17bbbe964ee110afd48d806527f875 module=libcontainerd namespace=moby topic=/tasks/delete type="*events.TaskDelete"
+Apr 13 20:56:19 vmubuntuserver dockerd[139641]: time="2026-04-13T20:56:19.909750333Z" level=info msg="received task-delete event from containerd" container=cea58b43f8059070da4696fc1e76ed34ddca330abf7fe76af8262cdfbb81a1bd module=libcontainerd namespace=moby topic=/tasks/delete type="*events.TaskDelete"
+Apr 13 20:56:21 vmubuntuserver dockerd[139641]: time="2026-04-13T20:56:21.915160523Z" level=info msg="received task-delete event from containerd" container=790785399c7e81894c8bcad6d311be23f07f9bb24c9e894582f6190ececf6d54 module=libcontainerd namespace=moby topic=/tasks/delete type="*events.TaskDelete"
+Apr 13 20:56:22 vmubuntuserver dockerd[139641]: time="2026-04-13T20:56:22.931862903Z" level=info msg="received task-delete event from containerd" container=ce2e460e508fe6ee667d008bf4011c3481152f010daf8581591dde170ca7b507 module=libcontainerd namespace=moby topic=/tasks/delete type="*events.TaskDelete"
+Apr 13 20:56:23 vmubuntuserver dockerd[139641]: time="2026-04-13T20:56:23.116899200Z" level=info msg="stopping event stream following graceful shutdown" error="<nil>" module=libcontainerd namespace=moby
+Apr 13 20:56:23 vmubuntuserver dockerd[139641]: time="2026-04-13T20:56:23.117164774Z" level=info msg="Daemon shutdown complete"
+Apr 13 20:56:23 vmubuntuserver systemd[1]: docker.service: Deactivated successfully.
+Apr 13 20:56:23 vmubuntuserver systemd[1]: Stopped docker.service - Docker Application Container Engine.

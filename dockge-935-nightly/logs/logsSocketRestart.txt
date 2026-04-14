@@ -1,0 +1,23 @@
+[36m2026-04-13T09:43:13Z[0m [[32mSERVER[0m] [36mINFO:[0m Welcome to dockge!
+[36m2026-04-13T09:43:13Z[0m [[32mSERVER[0m] [36mINFO:[0m NODE_ENV: production
+[36m2026-04-13T09:43:13Z[0m [[32mSERVER[0m] [36mINFO:[0m Server Type: HTTP
+[36m2026-04-13T09:43:13Z[0m [[32mSERVER[0m] [36mINFO:[0m Data Dir: ./data/
+[36m2026-04-13T09:43:13Z[0m [[38;5;117mDB[0m] [36mINFO:[0m Database Type: sqlite
+[36m2026-04-13T09:43:13Z[0m [[32mSERVER[0m] [36mINFO:[0m Connected to the database
+[36m2026-04-13T09:43:13Z[0m [[32mSERVER[0m] [36mINFO:[0m JWT secret is not found, generate one.
+[36m2026-04-13T09:43:13Z[0m [[32mSERVER[0m] [36mINFO:[0m Stored JWT secret into database
+[36m2026-04-13T09:43:13Z[0m [[32mSERVER[0m] [36mINFO:[0m No user, need setup
+[36m2026-04-13T09:43:13Z[0m [[32mSERVER[0m] [36mINFO:[0m Listening on 5001
+[36m2026-04-13T10:04:27Z[0m [[32mSERVER[0m] [36mINFO:[0m Shutdown requested
+[36m2026-04-13T10:04:27Z[0m [[32mSERVER[0m] [36mINFO:[0m Called signal: SIGTERM
+[36m2026-04-13T10:04:27Z[0m [[38;5;117mDB[0m] [36mINFO:[0m Closing the database
+[36m2026-04-13T10:04:29Z[0m [[38;5;117mDB[0m] [36mINFO:[0m Database closed
+[36m2026-04-13T10:04:29Z[0m [[32mSERVER[0m] [36mINFO:[0m Graceful shutdown successful!
+[36m2026-04-13T10:07:40Z[0m [[32mSERVER[0m] [36mINFO:[0m Welcome to dockge!
+[36m2026-04-13T10:07:40Z[0m [[32mSERVER[0m] [36mINFO:[0m NODE_ENV: production
+[36m2026-04-13T10:07:40Z[0m [[32mSERVER[0m] [36mINFO:[0m Server Type: HTTP
+[36m2026-04-13T10:07:40Z[0m [[32mSERVER[0m] [36mINFO:[0m Data Dir: ./data/
+[36m2026-04-13T10:07:40Z[0m [[38;5;117mDB[0m] [36mINFO:[0m Database Type: sqlite
+[36m2026-04-13T10:07:40Z[0m [[32mSERVER[0m] [36mINFO:[0m Connected to the database
+[36m2026-04-13T10:07:40Z[0m [[32mSERVER[0m] [36mINFO:[0m No user, need setup
+[36m2026-04-13T10:07:40Z[0m [[32mSERVER[0m] [36mINFO:[0m Listening on 5001
