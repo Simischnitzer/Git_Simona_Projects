@@ -1,17 +1,26 @@
-# Dockge Issue #935 – Nightly vs Stable Testing Report
+# Nightly and Stable Testing Report Problem Issue #935 – solved 
 
 ## Environment / Setup
 
 - Host: Remote server (private)
 - Hypervisor: Proxmox
 - VM: Ubuntu Server
-- Docker version: 29.0.1
 - Docker Compose: v2.40.3
 - Browser: Chrome
 - Access: SSH from local Windows machine (VS Code)
 
 Inside VM:
 Proxmox → Ubuntu VM → Docker → Dockge container
+
+## Tests docker env.
+
+- Stable test:
+  - Docker version: 29.0.1
+  - Dockge: stable/nightly (before update)
+
+- Nightly test (reproduced twice):
+  - Docker version: 29.4.0
+  - Dockge: latest nightly
 
 ---
 
@@ -56,13 +65,6 @@ stderr: 'failed to connect to the docker API at unix:///var/run/docker.sock;
 ### 3.1 Data directory issue
 Error:
 - ENOENT: no such file or directory, open data/db-config.json`
-sudo docker logs -f simi-dockge-nightly-1 2026-04-----[SERVER] INFO: 
-Welcome to dockge! 2026-04------hadam [SERVER] INFO: NODE_ENV: production 2026-04--------[SERVER] INFO: Server Type: 
-HTTP 2026-04------ [SERVER] INFO: Data Dir: ./data/ 2026-04------[DB] 
-WARN: ENOENT: no such file or directory, open 'data/db-config.json' 2026-04--------[DB] INFO: Database 
-Type: sqlite 2026-04-------[SERVER] INFO: Connected to the database 2026-04-asi --sensitive data--- 
-[SERVER] INFO: JWT secret is not found, generate one. 2026-04--------[SERVER] INFO: Stored JWT secret into database 2026-04-asi citlivy udaj hadam [SERVER] INFO: No user, need setup 2026-04asi citlivy udaj hadam [SERVER] 
-INFO: Listening on 5001
 
 docker logs -f simi-dockge-nightly-1 
 2026-04-09T11:16:13Z [SERVER] INFO: Welcome to dockge! 
@@ -144,7 +146,7 @@ Nginx Proxy Manager: jc21/nginx-proxy-manager:latest
 Caddy: caddy:latest
 Nginx: nginx:latest
 
-All running successfully with persistent volumes. There is only one small note for NPM, if u clic in GUI on the port (there are 2 80 and 81 ) it may try to open port 80 by default. However, the admin interface actually runs on port 81. 
+All running successfully with persistent volumes. There is only one small note for NPM, if u clic in GUI on the port (there are 2 ports: 80 and 81 ) it may try to open port 80 by default. However, the admin interface actually runs on port 81. 
 So you need to access it manually via: http://IP-VM:81
 
 6. Socket behavior observation
