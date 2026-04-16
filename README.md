@@ -1,7 +1,7 @@
 
 # My Projects Portfolio
 
-![Profile](images/profile.png)
+![Profile](images/profile.jpg)
 
 ## Portfolio overview
 My repositories here on GitHub contain my Python scripts, small programs, API tests, shell scripts, 
@@ -21,8 +21,10 @@ I’m still working on this Projects Portfolio and promise to finish it one day.
 - **API tools:** Postman, curl  
 - **Terminal clients:** MobaXterm, Xshell  
 - **Languages / Runtime:** Python, Bash, HTML, CSS, XML, basic Js
-- **Platforms / Tools:** Linux (CLI, system tools), SSH, Docker / Containers, Git / GitHub 
-- **Other skills:** JSON, XML mapping, API calls, JWT, log processing, shell automation.
+- **Platforms / Tools:** Linux (CLI, system tools), SSH, Docker / Containers, Git / GitHub
+- **Web & Data Skills:** WordPress, Live server
+- **Transferable skills:** Google Analytics, HTML/XML
+- **Other skills:** JSON, XML mapping, parsing, XSTL, XPath, API calls, JWT, EDI, Markdown, log processing, shell automation.
 
 ## Purpose
 To build an organized portfolio of my progress in programming and IT skills, 
