@@ -1,8 +1,6 @@
 
 # My Projects Portfolio
 
-![Profile](images/profile.jpg)
-
 ## Portfolio overview
 My repositories here on GitHub contain my Python scripts, small programs, API tests, shell scripts, 
 and various testing utilities created during my learning process. It also includes 
