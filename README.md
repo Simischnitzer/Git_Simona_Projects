@@ -27,7 +27,7 @@ I’m still working on this Projects Portfolio and promise to finish it one day.
 ## Purpose
 To build an organized portfolio of my progress in programming and IT skills, 
 keeping my work structured for future development and showcasing small projects, 
-scripts, and exercises.
+scripts, and exercises. Support is welcome via stars or feedback.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/simi_87871) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Simi33333/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/simona-schnitzer6754b938/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:simonka.schnitzer@gmail.com) 
