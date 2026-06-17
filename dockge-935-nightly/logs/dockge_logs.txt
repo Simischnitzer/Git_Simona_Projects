@@ -1,0 +1,138 @@
+[36m2026-04-13T11:11:42Z[0m [[32mSERVER[0m] [36mINFO:[0m Welcome to dockge!
+[36m2026-04-13T11:11:42Z[0m [[32mSERVER[0m] [36mINFO:[0m NODE_ENV: production
+[36m2026-04-13T11:11:42Z[0m [[32mSERVER[0m] [36mINFO:[0m Server Type: HTTP
+[36m2026-04-13T11:11:42Z[0m [[32mSERVER[0m] [36mINFO:[0m Data Dir: ./data/
+[36m2026-04-13T11:11:42Z[0m [[38;5;117mDB[0m] [36mINFO:[0m Database Type: sqlite
+[36m2026-04-13T11:11:42Z[0m [[32mSERVER[0m] [36mINFO:[0m Connected to the database
+[36m2026-04-13T11:11:42Z[0m [[32mSERVER[0m] [36mINFO:[0m Listening on 5001
+[36m2026-04-13T11:11:44Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Origin is not set, IP: ::ffff:IP
+[36m2026-04-13T11:11:44Z[0m [[32mSERVER[0m] [36mINFO:[0m Socket connected (direct)
+[36m2026-04-13T11:11:44Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Login by token. IP=IP
+[36m2026-04-13T11:11:44Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Username from JWT: Simischnitzer
+[36m2026-04-13T11:11:44Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Successfully logged in user Simischnitzer. IP
+[36m2026-04-13T11:11:44Z[0m [[32mSERVER[0m] [36mINFO:[0m Socket disconnected!
+[36m2026-04-13T11:11:45Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Origin is not set, IP: ::ffff:IP
+[36m2026-04-13T11:11:45Z[0m [[32mSERVER[0m] [36mINFO:[0m Socket connected (direct)
+[36m2026-04-13T11:11:45Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Login by token. IP
+[36m2026-04-13T11:11:45Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Username from JWT: Simischnitzer
+[36m2026-04-13T11:11:45Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Successfully logged in user Simischnitzer. IP
+[ 'compose', 'logs', '-f', '--tail', '100' ]
+[ 'compose', 'ps', '--format', 'json' ]
+[ 'compose', 'restart' ]
+[ 'compose', 'ps', '--format', 'json' ]
+[ 'compose', 'logs', '-f', '--tail', '100' ]
+[ 'compose', 'ps', '--format', 'json' ]
+[ 'compose', 'restart' ]
+[ 'compose', 'logs', '-f', '--tail', '100' ]
+[ 'compose', 'ps', '--format', 'json' ]
+[ 'compose', 'restart' ]
+[ 'compose', 'logs', '-f', '--tail', '100' ]
+[ 'compose', 'ps', '--format', 'json' ]
+[36m2026-04-13T11:11:42Z[0m [[32mSERVER[0m] [36mINFO:[0m Welcome to dockge!
+[36m2026-04-13T11:11:42Z[0m [[32mSERVER[0m] [36mINFO:[0m NODE_ENV: production
+[36m2026-04-13T11:11:42Z[0m [[32mSERVER[0m] [36mINFO:[0m Server Type: HTTP
+[36m2026-04-13T11:11:42Z[0m [[32mSERVER[0m] [36mINFO:[0m Data Dir: ./data/
+[36m2026-04-13T11:11:42Z[0m [[38;5;117mDB[0m] [36mINFO:[0m Database Type: sqlite
+[36m2026-04-13T11:11:42Z[0m [[32mSERVER[0m] [36mINFO:[0m Connected to the database
+[36m2026-04-13T11:11:42Z[0m [[32mSERVER[0m] [36mINFO:[0m Listening on 5001
+[36m2026-04-13T11:11:44Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Origin is not set, IP: ::ffff:IP
+[36m2026-04-13T11:11:44Z[0m [[32mSERVER[0m] [36mINFO:[0m Socket connected (direct)
+[36m2026-04-13T11:11:44Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Login by token. IP
+[36m2026-04-13T11:11:44Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Username from JWT: Simischnitzer
+[36m2026-04-13T11:11:44Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Successfully logged in user Simischnitzer. IP
+[36m2026-04-13T11:11:44Z[0m [[32mSERVER[0m] [36mINFO:[0m Socket disconnected!
+[36m2026-04-13T11:11:45Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Origin is not set, IP: ::ffff
+[36m2026-04-13T11:11:45Z[0m [[32mSERVER[0m] [36mINFO:[0m Socket connected (direct)
+[36m2026-04-13T11:11:45Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Login by token. IP
+[36m2026-04-13T11:11:45Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Username from JWT: Simischnitzer
+[36m2026-04-13T11:11:45Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Successfully logged in user Simischnitzer. IP
+[ 'compose', 'logs', '-f', '--tail', '100' ]
+[ 'compose', 'ps', '--format', 'json' ]
+[ 'compose', 'restart' ]
+[ 'compose', 'ps', '--format', 'json' ]
+[ 'compose', 'logs', '-f', '--tail', '100' ]
+[ 'compose', 'ps', '--format', 'json' ]
+[ 'compose', 'restart' ]
+[ 'compose', 'logs', '-f', '--tail', '100' ]
+[ 'compose', 'ps', '--format', 'json' ]
+[ 'compose', 'restart' ]
+[ 'compose', 'logs', '-f', '--tail', '100' ]
+[ 'compose', 'ps', '--format', 'json' ]
+[36m2026-04-13T11:11:42Z[0m [[32mSERVER[0m] [36mINFO:[0m Welcome to dockge!
+[36m2026-04-13T11:11:42Z[0m [[32mSERVER[0m] [36mINFO:[0m NODE_ENV: production
+[36m2026-04-13T11:11:42Z[0m [[32mSERVER[0m] [36mINFO:[0m Server Type: HTTP
+[36m2026-04-13T11:11:42Z[0m [[32mSERVER[0m] [36mINFO:[0m Data Dir: ./data/
+[36m2026-04-13T11:11:42Z[0m [[38;5;117mDB[0m] [36mINFO:[0m Database Type: sqlite
+[36m2026-04-13T11:11:42Z[0m [[32mSERVER[0m] [36mINFO:[0m Connected to the database
+[36m2026-04-13T11:11:42Z[0m [[32mSERVER[0m] [36mINFO:[0m Listening on 5001
+[36m2026-04-13T11:11:44Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Origin is not set, IP: ::ffff:IP
+[36m2026-04-13T11:11:44Z[0m [[32mSERVER[0m] [36mINFO:[0m Socket connected (direct)
+[36m2026-04-13T11:11:44Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Login by token. IP
+[36m2026-04-13T11:11:44Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Username from JWT: Simischnitzer
+[36m2026-04-13T11:11:44Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Successfully logged in user Simischnitzer. IP
+[36m2026-04-13T11:11:44Z[0m [[32mSERVER[0m] [36mINFO:[0m Socket disconnected!
+[36m2026-04-13T11:11:45Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Origin is not set, IP: ::ffff: IP
+[36m2026-04-13T11:11:45Z[0m [[32mSERVER[0m] [36mINFO:[0m Socket connected (direct)
+[36m2026-04-13T11:11:45Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Login by token. IP
+[36m2026-04-13T11:11:45Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Username from JWT: Simischnitzer
+[36m2026-04-13T11:11:45Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Successfully logged in user Simischnitzer. IP
+[ 'compose', 'logs', '-f', '--tail', '100' ]
+[ 'compose', 'ps', '--format', 'json' ]
+[ 'compose', 'restart' ]
+[ 'compose', 'ps', '--format', 'json' ]
+[ 'compose', 'logs', '-f', '--tail', '100' ]
+[ 'compose', 'ps', '--format', 'json' ]
+[ 'compose', 'restart' ]
+[ 'compose', 'logs', '-f', '--tail', '100' ]
+[ 'compose', 'ps', '--format', 'json' ]
+[ 'compose', 'restart' ]
+[ 'compose', 'logs', '-f', '--tail', '100' ]
+[ 'compose', 'ps', '--format', 'json' ]
+[ 'compose', 'ps', '--format', 'json' ]
+[36m2026-04-13T11:29:24Z[0m [[32mSERVER[0m] [36mINFO:[0m Socket disconnected!
+[36m2026-04-13T11:29:25Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Origin is not set, IP: ::ffff:IP
+[36m2026-04-13T11:29:25Z[0m [[32mSERVER[0m] [36mINFO:[0m Socket connected (direct)
+[36m2026-04-13T11:29:25Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Login by token. IP
+[36m2026-04-13T11:29:25Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Username from JWT: Simischnitzer
+[36m2026-04-13T11:29:25Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Successfully logged in user Simischnitzer. IP
+[ 'compose', 'logs', '-f', '--tail', '100' ]
+[ 'compose', 'ps', '--format', 'json' ]
+[ 'compose', 'ps', '--format', 'json' 
+2026-04-13T11:11:42.644362068Z [36m2026-04-13T11:11:42Z[0m [[32mSERVER[0m] [36mINFO:[0m Welcome to dockge!
+2026-04-13T11:11:42.645038171Z [36m2026-04-13T11:11:42Z[0m [[32mSERVER[0m] [36mINFO:[0m NODE_ENV: production
+2026-04-13T11:11:42.647670086Z [36m2026-04-13T11:11:42Z[0m [[32mSERVER[0m] [36mINFO:[0m Server Type: HTTP
+2026-04-13T11:11:42.652674893Z [36m2026-04-13T11:11:42Z[0m [[32mSERVER[0m] [36mINFO:[0m Data Dir: ./data/
+2026-04-13T11:11:42.653844784Z [36m2026-04-13T11:11:42Z[0m [[38;5;117mDB[0m] [36mINFO:[0m Database Type: sqlite
+2026-04-13T11:11:42.725495134Z [36m2026-04-13T11:11:42Z[0m [[32mSERVER[0m] [36mINFO:[0m Connected to the database
+2026-04-13T11:11:42.740706282Z [36m2026-04-13T11:11:42Z[0m [[32mSERVER[0m] [36mINFO:[0m Listening on 5001
+2026-04-13T11:11:44.187405032Z [36m2026-04-13T11:11:44Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Origin is not set, IP: ::ffff:IP
+2026-04-13T11:11:44.211436939Z [36m2026-04-13T11:11:44Z[0m [[32mSERVER[0m] [36mINFO:[0m Socket connected (direct)
+2026-04-13T11:11:44.351007676Z [36m2026-04-13T11:11:44Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Login by token. IP
+2026-04-13T11:11:44.352810506Z [36m2026-04-13T11:11:44Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Username from JWT: Simischnitzer
+2026-04-13T11:11:44.355664798Z [36m2026-04-13T11:11:44Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Successfully logged in user Simischnitzer. IP
+2026-04-13T11:11:44.374929466Z [36m2026-04-13T11:11:44Z[0m [[32mSERVER[0m] [36mINFO:[0m Socket disconnected!
+2026-04-13T11:11:45.288088572Z [36m2026-04-13T11:11:45Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Origin is not set, IP: ::ffff
+2026-04-13T11:11:45.434622351Z [36m2026-04-13T11:11:45Z[0m [[32mSERVER[0m] [36mINFO:[0m Socket connected (direct)
+2026-04-13T11:11:45.462993552Z [36m2026-04-13T11:11:45Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Login by token. IP=
+2026-04-13T11:11:45.463533504Z [36m2026-04-13T11:11:45Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Username from JWT: Simischnitzer
+2026-04-13T11:11:45.465591116Z [36m2026-04-13T11:11:45Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Successfully logged in user Simischnitzer. IP
+2026-04-13T11:11:45.894917753Z [ 'compose', 'logs', '-f', '--tail', '100' ]
+2026-04-13T11:11:45.908957471Z [ 'compose', 'ps', '--format', 'json' ]
+2026-04-13T11:11:51.933872979Z [ 'compose', 'restart' ]
+2026-04-13T11:11:52.034724040Z [ 'compose', 'ps', '--format', 'json' ]
+2026-04-13T11:11:55.347912257Z [ 'compose', 'logs', '-f', '--tail', '100' ]
+2026-04-13T11:11:55.355443594Z [ 'compose', 'ps', '--format', 'json' ]
+2026-04-13T11:11:57.013711468Z [ 'compose', 'restart' ]
+2026-04-13T11:11:58.329745618Z [ 'compose', 'logs', '-f', '--tail', '100' ]
+2026-04-13T11:11:58.341190234Z [ 'compose', 'ps', '--format', 'json' ]
+2026-04-13T11:11:59.511006716Z [ 'compose', 'restart' ]
+2026-04-13T11:12:03.115962402Z [ 'compose', 'logs', '-f', '--tail', '100' ]
+2026-04-13T11:12:03.124901622Z [ 'compose', 'ps', '--format', 'json' ]
+2026-04-13T11:29:24.630260549Z [36m2026-04-13T11:29:24Z[0m [[32mSERVER[0m] [36mINFO:[0m Socket disconnected!
+2026-04-13T11:29:25.194373881Z [36m2026-04-13T11:29:25Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Origin is not set, IP: ::ffff:
+2026-04-13T11:29:25.296519998Z [36m2026-04-13T11:29:25Z[0m [[32mSERVER[0m] [36mINFO:[0m Socket connected (direct)
+2026-04-13T11:29:25.327154459Z [36m2026-04-13T11:29:25Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Login by token. IP
+2026-04-13T11:29:25.327742649Z [36m2026-04-13T11:29:25Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Username from JWT: Simischnitzer
+2026-04-13T11:29:25.330493259Z [36m2026-04-13T11:29:25Z[0m [[38;5;208mAUTH[0m] [36mINFO:[0m Successfully logged in user Simischnitzer. IP
+2026-04-13T11:29:25.581211797Z [ 'compose', 'logs', '-f', '--tail', '100' ]
+2026-04-13T11:29:25.583526198Z [ 'compose', 'ps', '--format', 'json' ]

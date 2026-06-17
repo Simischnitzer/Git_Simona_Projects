@@ -1,0 +1,12 @@
+○ docker.socket - Docker Socket for the API
+     Loaded: loaded (/usr/lib/systemd/system/docker.socket; disabled; preset: enabled)
+     Active: inactive (dead) since Mon 2026-04-13 20:56:23 UTC; 1min 58s ago
+   Duration: 14.648s
+   Triggers: ● docker.service
+     Listen: /run/docker.sock (Stream)
+        CPU: 437us
+
+Apr 13 20:56:08 vmubuntuserver systemd[1]: Starting docker.socket - Docker Socket for the API...
+Apr 13 20:56:08 vmubuntuserver systemd[1]: Listening on docker.socket - Docker Socket for the API.
+Apr 13 20:56:23 vmubuntuserver systemd[1]: docker.socket: Deactivated successfully.
+Apr 13 20:56:23 vmubuntuserver systemd[1]: Closed docker.socket - Docker Socket for the API.
